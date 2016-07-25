@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Simple test</string>
+
+    <!--Base activity-->
+    <string name="ok_dialog_button">OK</string>
+    <string name="cancel_dialog_button">Cancel</string>
+    <!--Main activity-->
+    <string name="main_activity_name">List</string>
+    <string name="no_data_text">No data to show, pull to refresh</string>
+    <string name="error_loading_data">Couldn\'t load data, try again later</string>
+    <string name="formated_id">id: %1$d</string>
+    <string name="formated_name">name: %1$s</string>
+    <string name="formated_phone">phone: %1$s</string>
+    <string name="formated_date_open">opened: %1$s</string>
+    <string name="formated_date_closed">closed: %1$s</string>
+</resources>
